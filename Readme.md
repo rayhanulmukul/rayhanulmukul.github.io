@@ -1,20 +1,21 @@
-Personal Portfolio – rayhanulmukul.github.io
+## Personal Portfolio – rayhanulmukul.github.io
 
 A responsive, GitHub Pages–hosted portfolio showcasing professional profile, technical competencies, and project highlights. Built with a lightweight front-end stack and integrated contact workflow.
 
-Key Capabilities
+### Key Capabilities
 
-Responsive UI with modular sections
+* Responsive UI with modular sections
 
-Skills, experience, and project showcase
+* Skills, experience, and project showcase
 
-PHP-powered contact form integration
+* PHP-powered contact form integration
 
-Dockerfile included for containerized deployment
+* Dockerfile included for containerized deployment
 
-Tech Stack
+### Tech Stack
 
-Frontend: HTML, CSS, JavaScript
-Backend: PHP (form handling)
-Hosting & CI: GitHub Pages, Git
+* Frontend: HTML, CSS, JavaScript
+* Backend: PHP (form handling)
+* Hosting & CI: GitHub Pages, Git
+
 
